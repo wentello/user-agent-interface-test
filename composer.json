@@ -1,0 +1,16 @@
+{
+    "name": "wentello/user-agent-interface-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vitaliy"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hillel\\AgentUser\\Test\\": "./src"
+        }
+    }
+}
